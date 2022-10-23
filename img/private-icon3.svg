@@ -1,0 +1,14 @@
+<svg width="64" height="65" viewBox="0 0 64 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="32" cy="32.9424" r="32" fill="#434396"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.5451 33.133C20.9871 32.5286 22 31.1038 22 29.4424C22 27.2332 20.2091 25.4424 18 25.4424C15.7909 25.4424 14 27.2332 14 29.4424C14 31.1038 15.0129 32.5286 16.4549 33.133L14.5359 41.4424H21.4641L19.5451 33.133Z" fill="white"/>
+<rect x="30" y="23.9424" width="5" height="5" rx="1" fill="white"/>
+<rect x="37" y="23.9424" width="5" height="5" rx="1" fill="white"/>
+<rect x="44" y="23.9424" width="5" height="5" rx="1" fill="white"/>
+<rect x="30" y="30.9424" width="5" height="5" rx="1" fill="white"/>
+<rect x="37" y="30.9424" width="5" height="5" rx="1" fill="white"/>
+<rect x="44" y="30.9424" width="5" height="5" rx="1" fill="white"/>
+<rect x="30" y="37.9424" width="5" height="5" rx="1" fill="white"/>
+<rect x="37" y="37.9424" width="5" height="5" rx="1" fill="white"/>
+<rect x="44" y="37.9424" width="5" height="5" rx="1" fill="white"/>
+<rect x="9.25" y="19.1924" width="44.5" height="28.5" rx="1.75" stroke="#34CCA9" stroke-width="2.5"/>
+</svg>
